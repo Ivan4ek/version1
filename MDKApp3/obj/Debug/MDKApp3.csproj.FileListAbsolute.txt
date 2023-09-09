@@ -1,0 +1,11 @@
+C:\GitProjectMDK\MDKApp3\MDKApp3\bin\Debug\MDKApp3.exe.config
+C:\GitProjectMDK\MDKApp3\MDKApp3\bin\Debug\MDKApp3.exe
+C:\GitProjectMDK\MDKApp3\MDKApp3\bin\Debug\MDKApp3.pdb
+C:\GitProjectMDK\MDKApp3\MDKApp3\obj\Debug\MDKApp3.csproj.AssemblyReference.cache
+C:\GitProjectMDK\MDKApp3\MDKApp3\obj\Debug\MDKApp3.csproj.SuggestedBindingRedirects.cache
+C:\GitProjectMDK\MDKApp3\MDKApp3\obj\Debug\MDKApp3.Form1.resources
+C:\GitProjectMDK\MDKApp3\MDKApp3\obj\Debug\MDKApp3.Properties.Resources.resources
+C:\GitProjectMDK\MDKApp3\MDKApp3\obj\Debug\MDKApp3.csproj.GenerateResource.cache
+C:\GitProjectMDK\MDKApp3\MDKApp3\obj\Debug\MDKApp3.csproj.CoreCompileInputs.cache
+C:\GitProjectMDK\MDKApp3\MDKApp3\obj\Debug\MDKApp3.exe
+C:\GitProjectMDK\MDKApp3\MDKApp3\obj\Debug\MDKApp3.pdb
